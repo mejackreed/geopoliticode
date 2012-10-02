@@ -8,7 +8,7 @@ This project utilizes the [Yahoo Placefinder API](http://developer.yahoo.com/geo
 
 ##Using
 
-When run from console, ```geopoliticode.py``` takes a CSV file of street addresses, "addresses.csv", as input and returns a csv "addressesupdated.csv" containing street address, county, federal house districts, and state house and senate districts.
+When run from console, ```geopoliticode.py``` takes a CSV file of street addresses, "addresses.csv", as input and returns a csv "addressesupdated.csv" containing street address, county, latitude, longitude, federal house districts, and state house and senate districts.
 
 
 ##Special Note
