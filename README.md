@@ -4,7 +4,7 @@ This side project was developed as part of a larger project, where a large numbe
 
 Initially, Yahoo Placefinder API was the best solution to geocode 1000+ addresses at a time, but with the discontinuation of the service a new free bulk geocoding solution will be needed after November 17, 2012.
 
-This project utilizes the [Yahoo Placefinder API](http://developer.yahoo.com/geo/placefinder/) and [Mobile Commons Legislative Lookup](http://www.mobilecommons.com/mobile-commons-api/legislative-lookup/)
+This project utilizes the [Yahoo Placefinder API](http://developer.yahoo.com/geo/placefinder/) and [Mobile Commons Legislative Lookup](http://www.mobilecommons.com/mobile-commons-api/legislative-lookup/) and requires the Python libraries: urllib, csv, and simplejson.
 
 ##Using
 
